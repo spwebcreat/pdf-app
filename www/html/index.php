@@ -9,9 +9,9 @@
 </head>
 <body>
     
-<section class="bl_content_compornent">
+<section class="container">
 
-    <div class="bl_content_body">
+    <div class="row">
 
         <div class="bl_content_area">
 
